@@ -1,5 +1,7 @@
 import UIKit
 
+//LIFO
+
 struct Stack {
   fileprivate var array: [String] = []
     
